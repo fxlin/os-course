@@ -1,0 +1,12 @@
+[submodule "p1-kernel"]
+	path = p1-kernel
+	url = git@github.com:fxlin/p1-kernel.git
+[submodule "p2-concurrency"]
+	path = p2-concurrency
+	url = https://github.com/fxlin/p2-concurrency
+[submodule "p3-tee"]
+	path = p3-tee
+	url = https://github.com/fxlin/p3-tee
+[submodule "p4-fs"]
+	path = p4-fs
+	url = https://github.com/fxlin/p4-fs
