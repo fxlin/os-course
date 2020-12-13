@@ -1,6 +1,8 @@
 ## WELCOME! 
 
-You just found the landing page for the UVA operating system course taught by Felix Lin. 
+You just found the landing page for the UVA operating system course. 
+
+* Instructor: Felix Lin (http://felixlin.org); TA (2020 Fall): Liwei Guo
 
 If you have taken this course, you may find materials here. 
 
