@@ -6,7 +6,7 @@ You just found the landing page for the UVA operating system course.
 
 If you have taken this course, you may find materials here. 
 
-If you are new, take a look at the [Wiki](https://github.com/fxlin/os-course/wiki).  
+<!---If you are new, take a look at the [Wiki](https://github.com/fxlin/os-course/wiki).  --->
 
 
 
