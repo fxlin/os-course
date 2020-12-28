@@ -10,12 +10,14 @@ If you have taken this course, you may find materials here.
 
 **Although the 1st offering was for cs6456 (grad OS), much content will stay the same for cs4414 (undergrad OS).**
 
-## Brief description 
-*Rationale*: Most existing OS courses and textbooks focus on kernel designs. As new systems, such as AI engines and trusted execution environments, become part of computing infrastructures, understanding them is as important as kernels. They shall enter the OS curriculum. 
+### Rationale
+Most existing OS courses and textbooks focus on kernel designs. As new systems, such as AI engines and trusted execution environments, become part of computing infrastructures, understanding them is as important as kernels. They shall enter the OS curriculum. 
 
-*Philosophy*: the course's first-class goal is to give you *experience* on software systems. While OS knowledge (e.g. "what are page tables?") is readily available from YouTube, StackOverflow, etc., the experience (e.g. "how to tinker with page tables?") is best delivered through hands-on learning with tight feedback loops. 
+### Philosophy
+The course's first-class goal is to give you *experience* on software systems. While OS knowledge (e.g. "what are page tables?") is readily available from YouTube, StackOverflow, etc., the experience (e.g. "how to tinker with page tables?") is best delivered through hands-on learning with tight feedback loops. 
 
-Overview: the core parts are a series of four projects: baremetal kernel, multicore, trusted execution, and filesystem forensics. To give you an idea, check out the link above. 
+### Overview
+The core parts are a series of four projects based on real hardware (ARM64): baremetal kernel, multicore, trusted execution, and filesystem forensics. To give you an idea, check out the link above. 
 
 All projects are linked as submodules here. 
 
